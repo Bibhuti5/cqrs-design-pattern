@@ -20,5 +20,5 @@ public class Product {
     private String name;
     private String description;
     private double price;
-    private String comments;
+    private String comments;  // Addding new attributes
 }
