@@ -1,5 +1,7 @@
 # cqrs-design-pattern
 
+Please Refer this Youtube video if you are struggling :-https://youtu.be/fzGZPf0FMao?si=V0LHYWO-iOYSzUyh
+
 ### CreateProduct Event
 
 ```
